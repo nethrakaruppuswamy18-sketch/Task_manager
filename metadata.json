@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, minimalist task management application with local storage persistence, filtering, and sorting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
